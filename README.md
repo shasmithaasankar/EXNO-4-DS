@@ -24,6 +24,60 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/user-attachments/assets/36e0c748-e66d-4e18-a2d6-abfb263b202a)
+![image](https://github.com/user-attachments/assets/d3fedff1-118d-4ff3-8070-ff316504c7be)
+![image](https://github.com/user-attachments/assets/7cc207a7-6d55-4cc3-9cc5-de1d539a98b0)
+![image](https://github.com/user-attachments/assets/ec8d41e6-03f5-4895-b8f6-0e7bb2bc79b7)
+![image](https://github.com/user-attachments/assets/6aa100f7-1473-4087-a682-a34757dffe37)
+![image](https://github.com/user-attachments/assets/af9604f0-4593-4749-80f5-8d15d62bd169)
+![image](https://github.com/user-attachments/assets/f52bb9c7-8a98-4864-80c9-159e01777e3f)
+![image](https://github.com/user-attachments/assets/99b93527-79b7-48da-8824-253ea532b28d)
+![image](https://github.com/user-attachments/assets/1ab003f6-f797-453d-a1f8-054bbdae4122)
+![image](https://github.com/user-attachments/assets/cd2d26f7-a38c-4c38-bdcb-0bc949c683ee)
+![image](https://github.com/user-attachments/assets/d585781e-7d84-4723-b65d-ca40d6fd2e2a)
+![image](https://github.com/user-attachments/assets/a0c34de4-3ab2-4973-8c5a-83d712f2601a)
+![image](https://github.com/user-attachments/assets/e88f1961-4211-4bd8-ae02-1c3cc882398d)
+
+![image](https://github.com/user-attachments/assets/4a6cbad4-ea86-401f-8ed2-7c8b27f94276)
+
+![image](https://github.com/user-attachments/assets/c9c40c5e-8843-4891-a4d0-20c77d4284f5)
+
+![image](https://github.com/user-attachments/assets/e822c062-ad48-47dc-a917-59d55afa8023)
+
+![image](https://github.com/user-attachments/assets/c608e806-7e88-493e-b97c-12dba0443926)
+
+![image](https://github.com/user-attachments/assets/c39960f6-a628-4b1c-8fef-f125938b2388)
+
+![image](https://github.com/user-attachments/assets/aa58564d-cf40-4513-82de-931e73763654)
+
+![image](https://github.com/user-attachments/assets/016e9df0-0fce-4610-83a8-6ed849d22a2d)
+
+![image](https://github.com/user-attachments/assets/f73c4450-852d-47b4-8c8f-a6e89182255b)
+
+![image](https://github.com/user-attachments/assets/cd8bdd5b-b6c8-45f5-b5fd-1b3a93526932)
+
+![image](https://github.com/user-attachments/assets/30be0625-e564-4a5c-b243-1ba87b97089f)
+
+![image](https://github.com/user-attachments/assets/bc9e8377-2834-4628-9b58-d7ee0b898016)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       Thus the the given data is performed Feature Scaling and Feature Selection process and saved the data to a file successfully.
